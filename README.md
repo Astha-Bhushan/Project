@@ -10,4 +10,4 @@ Text Classifier Using NLP : Dataset and Code both are given                     
  
  3rd Project
  
- House Price predicar=tion project : advance linear regression and feature engineering                  # Third Commit
+ House Price predication project : advance linear regression and feature engineering                  # Third Commit
