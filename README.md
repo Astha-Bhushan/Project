@@ -7,3 +7,7 @@ Text Classifier Using NLP : Dataset and Code both are given                     
 
  
  K-Means Clustering Project : Image Compression using k-means , Code and images are given                # Second Commit
+ 
+ 3rd Project
+ 
+ House Price predicar=tion project : advance linear regression and feature engineering                  # Third Commit
